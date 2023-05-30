@@ -1,0 +1,31 @@
+.header{
+    height: 60px;
+    background-color: #2B99B1;
+}
+.nav-bar{
+    margin-bottom: -10px;
+}
+.card img{
+    width: 100px;
+    height: 100px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin: 20px;
+}
+.card{
+    margin-top: 20px;
+    border-color: #2B99B1;
+}
+.button-color{
+    background-color:#2B99B1 ;
+}
+ul li {
+    list-style-type: none;
+}
+.explore{
+    color: #2B99B1;
+}
+.list-group-item{
+
+    border-color: #2B99B1;
+}

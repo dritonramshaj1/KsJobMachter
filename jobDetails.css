@@ -1,0 +1,36 @@
+.header{
+    height: 60px;
+    background-color: #2B99B1;
+}
+.nav-bar{
+    margin-bottom: -10px;
+}
+.image{
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+}
+.list-group-item .main{
+    border: 2px ;
+    border-color: #2B99B1;
+}
+.list-group-item{
+    border-color: #2B99B1;
+}
+.title{
+    margin-top:15px ;
+}
+.subtitle{
+    color: gray;
+    margin-top: 30px;
+}
+.description{
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+ul li {
+    list-style-type: none;
+}
+.list-group li {
+    margin-left: 40px;
+}
