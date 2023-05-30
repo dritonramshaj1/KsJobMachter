@@ -1,0 +1,49 @@
+.header{
+    height: 50px;
+    background-color: #2B99B1;
+}
+.nav-bar{
+    margin-bottom: -10px;
+}
+
+ body{
+    background-color: #2B99B1;
+    
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.kualifikimet{
+    margin-left: 800px;
+}
+.form{
+    background-color: #FFFFFF; 
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    margin-top: 500px;
+    margin-left: 250px;
+
+}
+.flamur{
+    background-color: #FFFFFF; 
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    margin-top: 500px;
+    margin-left: 850px;
+}
+ .btn{
+    border-radius: 13px;
+    background-color: #2B99B1;
+    
+ }
+ .font-size{
+    font-size: xx-large;
+    color: #2B99B1  ;
+ }
+ .card-text{
+    font-family: 'Times New Roman', serif;
+    font-size: x-large;
+ }

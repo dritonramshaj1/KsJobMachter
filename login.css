@@ -1,0 +1,36 @@
+
+body{
+    background-color:#2B99B1;
+}
+html, body {
+    height: 100%;
+  }
+
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+  .container{
+    background-color: #d9d9d9; 
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;}
+  
+  .icon {
+    position: relative;
+    margin-left: 115px;
+ }
+  .form-control{
+    width: 320px;
+  }
+  .btn{
+    margin-left: 80px;
+    width: 125px;
+  }
+  .forget{
+    font-style: italic;
+    color:#2B99B1;
+    
+  }
